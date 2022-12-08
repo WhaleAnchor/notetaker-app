@@ -1,5 +1,4 @@
 <div id="top"></div>
-# Tech Blog
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -20,7 +19,7 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
+# Tech Blog
 
 
 <!-- ABOUT THE PROJECT -->
